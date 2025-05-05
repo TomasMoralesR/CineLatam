@@ -1,7 +1,6 @@
 package com.cinelatam.modelos;
 
 import com.cinelatam.excepcion.DuracionConversionErrorException;
-import com.google.gson.annotations.SerializedName;
 
 public class Titulo implements Comparable <Titulo>{
     private String nombre;
